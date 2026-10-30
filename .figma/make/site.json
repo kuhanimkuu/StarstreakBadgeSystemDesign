@@ -1,0 +1,10 @@
+{
+  "description": "Explore and manage Starstreak’s customizable achievement badges, celebrating live-event participation and community milestones across profiles and posts.",
+  "robots": {
+    "index": false
+  },
+  "accessibility": {
+    "addBypassLinks": false,
+    "ignoreReducedMotion": false
+  }
+}
